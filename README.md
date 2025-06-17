@@ -1,3 +1,4 @@
 # apnacollegedomo
 This is my first git repo
-author - jatin verma
+<br>
+Author - jatin verma
